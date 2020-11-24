@@ -1,0 +1,13 @@
+C:\Users\max jalapa\Desktop\capsulas\obj\Debug\netcoreapp3.1\capsulas.csprojAssemblyReference.cache
+C:\Users\max jalapa\Desktop\capsulas\obj\Debug\netcoreapp3.1\capsulas.AssemblyInfoInputs.cache
+C:\Users\max jalapa\Desktop\capsulas\obj\Debug\netcoreapp3.1\capsulas.AssemblyInfo.cs
+C:\Users\max jalapa\Desktop\capsulas\obj\Debug\netcoreapp3.1\capsulas.csproj.CoreCompileInputs.cache
+C:\Users\max jalapa\Desktop\capsulas\bin\Debug\netcoreapp3.1\capsulas.exe
+C:\Users\max jalapa\Desktop\capsulas\bin\Debug\netcoreapp3.1\capsulas.deps.json
+C:\Users\max jalapa\Desktop\capsulas\bin\Debug\netcoreapp3.1\capsulas.runtimeconfig.json
+C:\Users\max jalapa\Desktop\capsulas\bin\Debug\netcoreapp3.1\capsulas.runtimeconfig.dev.json
+C:\Users\max jalapa\Desktop\capsulas\bin\Debug\netcoreapp3.1\capsulas.dll
+C:\Users\max jalapa\Desktop\capsulas\bin\Debug\netcoreapp3.1\capsulas.pdb
+C:\Users\max jalapa\Desktop\capsulas\obj\Debug\netcoreapp3.1\capsulas.dll
+C:\Users\max jalapa\Desktop\capsulas\obj\Debug\netcoreapp3.1\capsulas.pdb
+C:\Users\max jalapa\Desktop\capsulas\obj\Debug\netcoreapp3.1\capsulas.genruntimeconfig.cache
