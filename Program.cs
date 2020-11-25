@@ -6,15 +6,20 @@ namespace capsulas
     {
         static void Main(string[] args)
         {
-           const double PI = 3.1416;
-           Console.WriteLine("INTRODUCE EL NUMERO DEL RADIO QUE DESEAS: ");
+         
+          Console.WriteLine(x(20, 30));
 
-           double radio = double.Parse(Console.ReadLine());
+          Console.WriteLine("============");
 
-           double area = Math.Pow(radio, 2) * PI;
+          Console.WriteLine(y(20, 30));
 
-           Console.WriteLine($"EL AREA DEL CIRCULO ES: {area}");
-           
+        }
+
+        static int x(int numero1, int numero2) => numero1*numero2;
+
+        static int y(int opera1, int opera2)
+        {
+            return opera1 + opera2;
         }
     }
 }
